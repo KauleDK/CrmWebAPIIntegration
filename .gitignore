@@ -3,3 +3,5 @@
 ################################################################################
 
 /CrmWebAPISample/CrmWebAPISample/bin/Debug/netcoreapp3.1
+/CrmWebAPISample/CrmWebAPISample/obj
+/CrmWebAPISample/.vs/CrmWebAPISample/v16
